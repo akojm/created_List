@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 1.5em !important;
+}
+td{
+    width: 200px;
+    height: 200x;
+}
+img{
+    width: 100%;
+    height: auto;
+}
